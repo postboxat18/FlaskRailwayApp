@@ -14,7 +14,9 @@ This repository demonstrates how to host a Flask application on [Railway](https:
    ```bash
    pip install gunicorn
    ```
+Medium Link
 
+[Hosting a Flask App on Railway via GitHub](https://medium.com/@aravinthc18/hosting-a-flask-app-on-railway-via-github-a486c7c4a8eb)
 ---
 
 ## Local Setup
